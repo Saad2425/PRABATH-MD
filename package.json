@@ -1,10 +1,10 @@
 {
-"name": "TOXIC-MD",
+"name": "TOXIC-KING",
 "version": "2.1.1",
-"description": "TOXIC-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "TOXIC has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name toxic-md",
+"start": "pm2 start start.js --deep-monitoring --attach --name toxic-king",
 "stop": "pm2 stop prabath-md",
 "restart": "pm2 restart prabath-md"
 },
